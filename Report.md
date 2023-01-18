@@ -1,7 +1,5 @@
 ---
-bibliography: bio.bib
-csl: harvard-cite-them-right.csl
-title: Gentrification and the Detrimental Impacts of Airbnb in London: a Policy Briefing
+title: Gentrification and the Detrimental Impacts of Airbnb in London - a Policy Briefing
 format: 
   pdf:
     include-in-header:
@@ -23,18 +21,10 @@ format:
     colorlinks: true
     highlight-style: github
 ---
+Date: 18 January 2023
 
-We, [Jessica Sumner, Diego Soler, Matthew Martignoni, and Phil], confirm that the work presented in this assessment is our own. Where information has been derived from other sources, we confirm that this has been indicated in the work.
+Student IDs: ucfnmhm, ucfnpje, ucfnjsu, ucbvdss
 
-[]
-
-Date: 16 January 2023
-
-Student Numbers: 22227558
-
-# Gentrification and the Detrimental Impacts of Airbnb in London: a Policy Briefing
-
-## Intro 
 
 In recent decades, the term ‘gentrification’ has circulated in the mainstream. The term encompasses a variety of phenomena from shifting neighbourhood aesthetics, to the rhetoric surrounding ‘revitalisation’ of dilapidated city-spaces and displacement of marginalised communities (Pell, 2014). One of the catalysts for these phenomena is short-term rental platforms. Airbnb in particular has significantly reshaped housing that its impact has colloquially been termed the ‘Airbnb effect’ in economics. In short, the term describes Airbnb’s impact on cities around the world: reduced housing supply and higher rent prices (Chaudhary, 2021). So, despite Airbnb’s lucrativeness , its systematic widening of rent gaps accelerates gentrification – or ‘Airbnbification’ – by pricing out long-time residents and small businesses (Wachsmuth and Weisler, 2018; Peters, 2016; Rozena and Lees, 2021). 
 
@@ -44,17 +34,18 @@ Deprivation data at the LSOA level, and 2019 and 2022 data from InsideAirbnb, a 
 
 Evidence to support this in-depth analysis is that Camden Council data from 2019 reveals that 48% of the 7,100 whole properties listed on platforms like Airbnb exceeded the 90-day legal limit. Additionally, Camden Council currently has 6,000 families experiencing insecure living conditions on its housing waiting list (Temperton 2020). This issue varies by degree in all boroughs. For effective policy change to take place, it is important to properly characterise Airbnb’s impact on housing in each borough.
 
-## Airbnb & Gentrification in Greater London
+# Airbnb & Gentrification in Greater London
 
 How has Airbnb proved to be a negative venture for London? Airbnb guests often contribute to antisocial behaviour, fragment communities through their transient nature, and on average it has been reported that a 1% increase in listings leads to a 0.018% increase in rents (Barker 2020). Of listings active in 2020, 23% supposedly breached the legal 90-day limit in London  (Temperton, 2020). This, paired with the GLA 2020 report which found that between 2015 and 2019 there has been a fourfold increase in Airbnb listings in London alone, further exemplifies the harmful swell of Airbnb (GLA Housing and Land, 2020). The continued deregulation of Airbnb is a disservice to Londoners of all socioeconomic and ethnic backgrounds, as everyone deserves equitable access to housing (see Ferreri and Sanyal, 2018 on deregulation).
 
 Previous quantitative research on Airbnb has neglected how rhetoric, as a reflection of social attitudes, might correlate to more tangible impacts of Airbnb and its cultural damage. Accordingly, this report looks at the language in Airbnb listing descriptions and bridges the gap between the qualitative and quantitative. The research for this report found that listings using words like trendy, revitalise, popular, edgy, vibrant, and authentic followed distinct spatial patterns. In 2019, these listings were generally confined to Zone Three. ‘Hotspots’ of these listings were dispersed across the city. The opposite was true in 2022. In fact, Hackney, Islington and Tower Hamlets were the top 3 boroughs with listings using the language of gentrification. Hackney and Tower Hamlets are also two of London’s more deprived boroughs. **Crucially, these spatial patterns revealed that 2022 listings using words tied with gentrification are statistically more likely to be associated with areas that have high deprivation in terms of access to housing.**
 
-### Camden  
+## Camden  
 
 The Borough of Camden is located in central London. According to census data from 2020, the borough has a total population of 263,000 individuals (Office of National Statistics, 2020). The borough’s population is majority White, and has a substantial number of individuals who identify as ‘Mixed/Other’. A specific breakdown can be seen below:
 
-Demographic Statistics by Ethnic Group (Office of National Statistics, 2020): <br /> 
+Demographic Statistics by Ethnic Group (Office of National Statistics, 2020): <br />
+
 * White: 155,000 (~59%)
 * Asian: 34,000 (~13%)
 * Black: 29,000 (~11%)
@@ -63,15 +54,16 @@ Demographic Statistics by Ethnic Group (Office of National Statistics, 2020): <b
 Regarding levels of deprivation, as judged by the Ministry of Housing, Communities, and Local Government (MHCLG), Camden's 133 Lower Level Super Output Areas (LSOAs) had an cumulative average 'Barriers to Housing and Services' rank of around 15,142.85 in 2019 (MHCLG, 2019). This is higher than the average of all London LSOAs' combined rank of 7,907.65. There are 32,844 LSOAs in England and the closer to rank ‘1’, the more perceived barriers there are to these services, which means that Camden neighbourhoods are less deprived on average.
 
 ![](camden.png)
-#### Figure A. Maps of Camden that display the range of 'barriers to housing and services' scores and the prices of Airbnbs in each LSOA.
+**Figure A. Maps of Camden that display the range of 'barriers to housing and services' scores and the prices in USD of Airbnbs in each LSOA.
 
 As the maps in conjunction demonstrate, listings are distributed across the borough in a comparable spatial pattern to LSOAs that are more deprived of housing and services. Both follow a vaguely semi-circular path that runs parallel to the bottom border of the borough, with the bottom point having the most expensive and highest density of listings. While this concentration – which is in Bloomsbury – is likely due to an amalgamation of factors (i.e., centrality and proximity to tourist sites), the correlation across geographic space alludes to some underlying relationship.
 
-### Kensington & Chelsea 
+## Kensington & Chelsea 
 
 The Royal Borough of Kensington and Chelsea is located west of both Camden and Hackney. According to census data from 2020, the borough has a total population of 153,000 individuals, making it markedly smaller than the other two areas being analysed (Office of National Statistics, 2020). Kensington and Chelsea have a much higher proportion of White individuals living in the borough, which potentially points to a higher number of more privileged and wealthier households.
 
 Demographic Statistics by Ethnic Group (Census Data, 2020): <br/> 
+
 * White: 109,000 (~71%)
 * Asian: 15,000 (~10%)
 * Black: 14,000 (~9%)
@@ -80,15 +72,16 @@ Demographic Statistics by Ethnic Group (Census Data, 2020): <br/>
 The 103 LSOAs that comprise Kensington & Chelsea have a average 'Barriers to Housing and Services' rank of 4,270.15, which is below the mean rank of all London boroughs (MHCLG, 2019). This means that Kensington & Chelsea are more deprived compared to most of London when it comes to accessing housing and services, a shock given the affluence in some parts of the borough. There is evidence to prove this as the average Index of Multiple Deprivation (IMD) rank for the borough is 15,419.34, compared to the average rank for all of London being 15,419.34 (MHCLG, 2019). This points to Kensington & Chelsea having a higher level of wealth disparity compared to the other two boroughs.
 
 ![](kc.png)
-#### Figure B. Maps of Kensington and Chelsea that display the range of 'barriers to housing and services' scores and the prices of Airbnbs in each LSOA.
+**Figure B. Maps of Kensington and Chelsea that display the range of 'barriers to housing and services' scores and the prices in USD of Airbnbs in each LSOA.
 
 Like Camden, areas with high density of Airbnbs in Kensington and Chelsea align with those more deprived in regard to housing and services. This borough is clearly divided: Chelsea to the South and the Kensington areas bordering Hyde Park are noticeably less deprived than the southwest and north. However, the Airbnbs in the borough are not concentrated in less deprived areas. Again, high density of listing and high prices align with high levels of deprivation internal to boroughs.
 
-### Hackney
+## Hackney
 
 The London Borough of Hackney is located east of Camden, separated only by the borough of Islington. According to census data from 2020, the borough has a total population of 289,000 individuals (Office of National Statistics, 2020). Hackney, like the other two boroughs being analyzed, has a majority White population. However, it has a relatively small population of those who identify as ‘Asian’ and larger numbers of ‘Black’ and ‘Mixed/Other’ individuals.  
 
 Demographic Statistics by Ethnic Group (Census Data, 2020): <br /> 
+
 * White: 167,000 (~58%)
 * Asian: 19,000 (~7%)
 * Black: 49,000 (~17%)
@@ -97,11 +90,11 @@ Demographic Statistics by Ethnic Group (Census Data, 2020): <br />
 Hackney's 144 LSOAs have an average  'Barriers to Housing and Services' rank of 1,647.49, which is much closer to rank ‘1’ than the mean rank of all LSOAs (MHCLG, 2019). This means that Hackney is comparatively extremely deprived.
 
 ![](hackney.png)
-#### Figure B. Maps of Hackney that display the range of 'barriers to housing and services' scores and the prices of Airbnbs in each LSOA.
+**Figure B. Maps of Hackney that display the range of 'barriers to housing and services' scores and the prices in USD of Airbnbs in each LSOA.
 
 Hackney serves as the primary example of how housing deprivation correlates with Airbnb concentration. Of the almost 70,000 Airbnbs listed in London, those using gentrification buzzwords are almost twice as likely to be located in Hackney than in any other borough. Camden and Kensington and Chelsea conversely had only a quarter as many listings using these words. Further, as the maps show, we see the same concentration of Airbnb listings in deprived areas, although this is relative to other boroughs as Hackney is comparatively highly deprived.
 
-## Policy Recommendations 
+# Policy Recommendations 
 
 As the government reviews possible policy initiatives to regulate short-term rentals, they undertake physical checks to ensure compliance with regulations surrounding health and safety, noise, and antisocial behaviour. While these considerations are not aimed at mitigating the impact of gentrification, similar efforts should go into protecting minority communities. Therefore, through increasing regulations and limitations on Airbnb – in conjunction with providing greater housing protection of residents –  Airbnb guests will likely receive a higher standard of housing and rightful dwellers of London will be protected. 
 
